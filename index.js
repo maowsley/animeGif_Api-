@@ -37,6 +37,8 @@ function displayInfo(json) {
 
         gif.style.height = '50vh'
         title.style.color = '#000000'
+        gif.id='image'
+
         container.appendChild(gif)
         container.appendChild(title)
          });
