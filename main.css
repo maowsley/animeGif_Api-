@@ -1,0 +1,28 @@
+body {
+    background: url('https://i.pinimg.com/originals/84/ba/5a/84ba5af7079e15a336e93d6640921856.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:'Roboto';
+} 
+
+.carousel {
+    padding-top: 5%;
+}
+
+.bottomgifs {
+    padding-top: 10%;
+}
+
+h1 {
+    padding-bottom: 0%;
+    padding-top: 0%;
+    padding: auto;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cornsilk;
+}
+
+.button {
+    color:pink;
+  border-color:pink;
+}
